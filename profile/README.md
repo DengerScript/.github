@@ -27,10 +27,10 @@ download on our website. Our
 software covers a variety of 
 categories, including:
 <br>
-* Roblox Executors
-* Roblox Scripts
-* Valorant Software
-* Rust Loaders
+* Executors
+* Scripts
+* Bypasses
+* Injectors
 <br>
 All of our software is thoroughly tested 
 and reviewed before it is made 
