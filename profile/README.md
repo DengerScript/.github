@@ -29,8 +29,8 @@ categories, including:
 <br>
 * Roblox Executors
 * Roblox Scripts
-* Valorant Cheats 
-* Rust Cheats
+* Valorant Software
+* Rust Loaders
 <br>
 All of our software is thoroughly tested 
 and reviewed before it is made 
