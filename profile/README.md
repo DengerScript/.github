@@ -26,10 +26,12 @@ paid software that is available for free
 download on our website. Our 
 software covers a variety of 
 categories, including:
--Roblox Executors
--Roblox Scripts
--Valorant Cheats 
--Rust Cheats
+<br>
+* Roblox Executors
+* Roblox Scripts
+* Valorant Cheats 
+* Rust Cheats
+<br>
 All of our software is thoroughly tested 
 and reviewed before it is made 
 available for download on our website. 
@@ -70,14 +72,16 @@ email at
 ### Partnerships
 -partnerships@dengerscripts.com
 
-##Administrators
+## Administrators
 
 ### CEO, Project Manager, Technical Manager
 -antiky@dengerscripts.com
 
 ### COO, Creative Director, Marketing Manager
 -denger@dengerscripts.com
-
+<br>
+<br>
+<br>
 or visit our website at 
-**dengerscripts.com**
-We look forward to hearing from you!
+[Denger Scripts Website](https://dengerscripts.com)
+,We look forward to hearing from you!
