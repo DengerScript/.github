@@ -58,17 +58,25 @@ or community, please do not hesitate
 to get in touch. You can contact us via 
 email at 
 
+### Feedback
 -feedback@dengerscripts.com
+
+### Information
 -info@dengerscripts.com
+
+### Careers
 -careers@dengerscripts.com
+
+### Partnerships
 -partnerships@dengerscripts.com
 
-**Administrators**
+##Administrators
 
--antiky@dengerscripts.com (CEO, 
-Project Manager, Technical Manager)
--denger@dengerscripts.com (COO, 
-Creative Director, Marketing Manager)
+### CEO, Project Manager, Technical Manager
+-antiky@dengerscripts.com
+
+### COO, Creative Director, Marketing Manager
+-denger@dengerscripts.com
 
 or visit our website at 
 **dengerscripts.com**
